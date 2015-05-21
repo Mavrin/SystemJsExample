@@ -1,0 +1,15 @@
+{
+  "name": "ExampleSystemJs",
+  "version": "0.0.0",
+  "description": "Example SystemJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.16.6",
+    "systemjs": "^0.16.11"
+  }
+}
